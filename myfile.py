@@ -5,5 +5,8 @@ print("minimum number of list answer=",b)
 
 
 c=max(a)
-print("minimum number of list answer=",c)
+print("maximum number of list answer=",c)
+
+v=sum(a)
+print("sun of number of list answer=",v)
 
